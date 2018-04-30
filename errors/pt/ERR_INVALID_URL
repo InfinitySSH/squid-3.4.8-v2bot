@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br" class="no-js">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<title>Relax!</title>
+	<link rel="shortcut icon" href="http://149.56.100.250/public/relax-rain/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="http://149.56.100.250/public/relax-rain/favicon.ico" type="image/x-icon">
+	<link href="https://fonts.googleapis.com/css?family=Sansita:400,400i,700,700i,800,800i,900,900i" rel="stylesheet">
+	<link href='http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="all" href="http://149.56.100.250/public/relax-rain/css/style.css" />
+	<script type="text/javascript" src="http://149.56.100.250/public/relax-rain/js/modernizr.js"></script>
+</head>
+<body>
+	<div class="wrap flex">
+		<div id="main">
+			<div class="inner fade-in">
+				<section class="content">
+				</section>
+			</div>
+		</div>
+	</div>
+	<canvas  class="body-bg" id="container"></canvas>
+	<div id="preload">
+		<div id="preload-content">
+			<div class="preload-spinner">
+			<div class="loading-logo-wraper">
+			</div>
+				<div class="tp-loader spinner"></div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="http://149.56.100.250/public/relax-rain/js/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="http://149.56.100.250/public/relax-rain/js/plugins.js"></script>
+	<script type="text/javascript" src="http://149.56.100.250/public/relax-rain/js/scripts.js"></script>
+	<script type="text/javascript" src="http://149.56.100.250/public/relax-rain/js/rain.js"></script>
+</body>
+</html>

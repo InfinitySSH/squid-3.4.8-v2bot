@@ -27,7 +27,7 @@ Http::StatusCodeString(const Http::StatusCode status)
 
         // 200-299
     case Http::scOkay:
-        return "<font color='#9933FF'>✔️ Conectado ✔️ </font><font color='#1E90FF'>[v2]</font>";
+        return "<font color='#9933FF'>✔️ Conectado ✔️ </font><font color='#1E90FF'>[v2] <strong>@InfinitySSHSmartBot - FREE</strong></font>";
         break;
 
     case Http::scCreated:

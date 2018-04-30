@@ -178,7 +178,7 @@ private:
     void readConnectResponseDone(char *buf, size_t len, comm_err_t errcode, int xerrno);
 };
 
-static const char *const conn_established = "HTTP/1.1 200 <font color='#9933FF'>✔️ Conectado ✔️ </font><font color='#1E90FF'>[v2]</font>\r\n\r\n";
+static const char *const conn_established = "HTTP/1.1 200 <font color='#9933FF'>✔️ Conectado ✔️ </font><font color='#1E90FF'>[v2] <strong>@InfinitySSHSmartBot - FREE</strong></font>\r\n\r\n";
 
 static CNCB tunnelConnectDone;
 static ERCB tunnelErrorComplete;
